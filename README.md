@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGrf3Ixgu78IA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739270017342?e=1745452800&v=beta&t=L8Qy1fAo6n82QewX1kZIOew9S1vbRjjPJ1Da8auF5zs">
+<img src="[https://media.licdn.com/dms/image/v2/D5616AQGrf3Ixgu78IA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739270017342?e=1745452800&v=beta&t=L8Qy1fAo6n82QewX1kZIOew9S1vbRjjPJ1Da8auF5zs](https://media.licdn.com/dms/image/v2/D5616AQHWHgrsORfT9g/profile-displaybackgroundimage-shrink_350_1400/B56ZVHhbT6HEAY-/0/1740661701335?e=1746057600&v=beta&t=Bwq3xRGiC44vcJRIn9jy1YEAoh5U98FTkeAkKSj9vvA)">
 
 <h1 align="center">Hi 👋, I'm Md. Ershad Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
