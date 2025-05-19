@@ -1,5 +1,5 @@
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHWHgrsORfT9g/profile-displaybackgroundimage-shrink_350_1400/B56ZVHhbT6HEAY-/0/1740661701335?e=1746057600&v=beta&t=Bwq3xRGiC44vcJRIn9jy1YEAoh5U98FTkeAkKSj9vvA">
+<img src="[https://media.licdn.com/dms/image/v2/D5616AQHWHgrsORfT9g/profile-displaybackgroundimage-shrink_350_1400/B56ZVHhbT6HEAY-/0/1740661701335?e=1746057600&v=beta&t=Bwq3xRGiC44vcJRIn9jy1YEAoh5U98FTkeAkKSj9vvA](https://media.licdn.com/dms/image/v2/D5616AQHWHgrsORfT9g/profile-displaybackgroundimage-shrink_350_1400/B56ZVHhbT6HEAY-/0/1740661701335?e=1753315200&v=beta&t=qZOfP9gLFutdnkO0x7HpzVtBvEDOpJ12ufcJL70GXW4)">
 
 <h1 align="center">Hi 👋, I'm Md. Ershad Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
