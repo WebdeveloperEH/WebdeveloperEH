@@ -2,7 +2,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQHWHgrsORfT9g/profile-displaybackgroundimage-shrink_350_1400/B56ZVHhbT6HEAY-/0/1740661701335?e=1757548800&v=beta&t=S1OmNab1OJXhIyaDfBKUsCKT3_N06-Ib7Luw2zBFjGM">
 
 <h1 align="center">Hi 👋, I'm Md. Ershad Hossain</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A Full Stack||Web Designer || Web Developer || WordPress Expert|| developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevelopereh&label=Profile%20views&color=0e75b6&style=flat" alt="webdevelopereh" /> </p>
 
